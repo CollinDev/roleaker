@@ -1,3 +1,0 @@
-curl -X 'GET' \
-  'https://games.roblox.com/v2/users/19717956/games?accessFilter=2&limit=10&sortOrder=Asc' \
-  -H 'accept: application/json'
